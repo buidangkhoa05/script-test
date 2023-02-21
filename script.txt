@@ -1,0 +1,22 @@
+create bire : 
+
+{
+  "name": "gaugau1",
+  "age": 0,
+  "weight": 0,
+  "elo": 0,
+  "status": "string",
+  "description": "string",
+  "color": "string",
+  "birdTypeId": "49e1935c-cfb7-457b-435f-08db07340fb9",
+  "listResource": [
+    {
+      "dataLink": "string",
+      "description": "s"
+    }
+  ]
+}
+
+
+------------------------------
+
