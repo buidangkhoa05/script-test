@@ -20,3 +20,49 @@ create bire :
 
 ------------------------------
 
+{
+    "tabnine.experimentalAutoImports": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.guides.bracketPairs": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "window.zoomLevel": 1,
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "vscode.css-language-features"
+    },
+    "[handlebars]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "editor.fontLigatures": true,
+    "editor.fontFamily": "Consolas, 'Courier New', monospace, MesloLGL Nerd Font Mono",
+    "editor.inlineSuggest.enabled": true,
+    "github.copilot.enable": {
+        "*": true,
+        "yaml": false,
+        "plaintext": false,
+        "markdown": false,
+        "csharp": true
+    },
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "emmet.syntaxProfiles": {
+        "javascript": "jsx"
+    },
+    "window.titleBarStyle": "custom",
+    "editor.unicodeHighlight.allowedCharacters": {
+        " ": true
+    },
+    "files.autoSave": "afterDelay",
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "diffEditor.ignoreTrimWhitespace": false,
+    "glassit.alpha": 250,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Bearded Theme Altica"
+}
